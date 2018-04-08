@@ -6,7 +6,10 @@ public class Main {
     public static void main(String[] args) throws Exception {
         // createTable();
         getConnection();
+        int foo = 5;
     }
+    
+    
 
     public static void createTable() throws Exception {
         try {

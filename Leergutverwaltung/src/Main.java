@@ -5,7 +5,7 @@ public class Main {
 
     public static void main(String[] args) throws Exception {
         // createTable();
-        getConnection2();
+        getConnection();
     }
 
     public static void createTable() throws Exception {

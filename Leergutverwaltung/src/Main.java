@@ -7,6 +7,7 @@ public class Main {
         // createTable();
         getConnection();
         int foo = 5;
+        int foo2 = 7;
     }
     
     
